@@ -1,0 +1,6 @@
+Ngôn ngữ kiểm tra kiểu tĩnh thực hiện kiểm tra kiểu tại thời điểm biên dịch giúp phát hiện lỗi sớm và tối ưu hiệu suất. Trong khi đó, ngôn ngữ kiểm tra kiểu động cho phép linh hoạt và phát triển nhanh hơn nhưng có thể gặp lỗi trong quá trình chạy.
+Ngôn ngữ kiểu tĩnh giúp phát hiện lỗi kiểu dữ liệu ngay khi biên dịch, tăng tính an toàn và hiệu quả. Trong khi đó, ngôn ngữ kiểu động cho phép linh hoạt trong xử lý dữ liệu nhưng có thể gây lỗi runtime khó phát hiện.
+
+Nhiều ngôn ngữ hiện đại hỗ trợ cả hai kiểu này hoặc có kiểu dữ liệu bán tĩnh, giúp lập trình viên vừa có sự an toàn vừa có tính linh hoạt.
+
+Việc lựa chọn ngôn ngữ kiểu tĩnh hay động còn phụ thuộc vào quy mô dự án, nhóm phát triển, và yêu cầu bảo trì.

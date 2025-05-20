@@ -1,0 +1,8 @@
+C++ cung cấp khả năng kiểm soát tài nguyên và hiệu suất một cách chi tiết, rất phù hợp cho lập trình hệ thống và phát triển game. Tuy nhiên, việc làm chủ C++ đòi hỏi kiến thức sâu về quản lý bộ nhớ thủ công và các khái niệm phức tạp như con trỏ.
+C++ là ngôn ngữ hướng đối tượng mạnh mẽ, cho phép lập trình viên kiểm soát tài nguyên hệ thống ở mức thấp nhưng vẫn hỗ trợ các trừu tượng cao cấp. Điều này làm cho C++ phù hợp cho phát triển hệ thống nhúng, game, và ứng dụng hiệu suất cao.
+
+C++ cũng hỗ trợ nhiều kiểu lập trình khác nhau như lập trình thủ tục, hướng đối tượng, và lập trình mẫu (template). Các thư viện như STL giúp xử lý dữ liệu một cách hiệu quả.
+
+Mặc dù mạnh mẽ, C++ có độ phức tạp cao và yêu cầu người lập trình cần hiểu rõ về quản lý bộ nhớ để tránh lỗi như rò rỉ bộ nhớ hoặc lỗi truy cập.
+
+

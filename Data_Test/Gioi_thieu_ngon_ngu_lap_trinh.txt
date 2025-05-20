@@ -1,0 +1,8 @@
+Ngôn ngữ lập trình là công cụ cơ bản giúp lập trình viên giao tiếp và chỉ dẫn máy tính thực thi các tác vụ. Từ các ngôn ngữ cấp thấp đến các ngôn ngữ cấp cao, mỗi loại mang đến các tính năng và phương pháp phát triển khác nhau nhằm đáp ứng nhu cầu đa dạng trong lĩnh vực phần mềm.
+Ngôn ngữ lập trình đóng vai trò quan trọng trong sự phát triển của công nghệ thông tin. Chúng giúp lập trình viên truyền đạt ý tưởng thành các câu lệnh máy tính có thể hiểu và thực thi. Qua thời gian, các ngôn ngữ được phát triển để hỗ trợ hiệu quả hơn các nhiệm vụ phức tạp.
+
+Ngày nay, việc lựa chọn ngôn ngữ lập trình phù hợp phụ thuộc vào mục tiêu dự án, nền tảng và yêu cầu kỹ thuật. Một số ngôn ngữ phổ biến có cộng đồng hỗ trợ lớn và thư viện phong phú, giúp rút ngắn thời gian phát triển.
+
+Ngoài ra, xu hướng hiện đại đang hướng tới các ngôn ngữ có khả năng tương tác cao, hỗ trợ đa nền tảng và có tính năng lập trình hàm, lập trình phản ứng, để thích ứng với môi trường công nghệ biến đổi nhanh chóng.
+
+

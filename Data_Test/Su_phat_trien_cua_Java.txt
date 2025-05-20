@@ -1,0 +1,8 @@
+Java trở thành một trong những ngôn ngữ lập trình phổ biến nhất nhờ khả năng chạy đa nền tảng và tính bảo mật cao. Cấu trúc của Java cho phép lập trình viên viết mã một lần và chạy ở bất kỳ đâu, rất phù hợp với các ứng dụng doanh nghiệp quy mô lớn và phát triển ứng dụng Android.
+Java là ngôn ngữ đa nền tảng, được thiết kế với phương châm "Write Once, Run Anywhere" nhờ JVM. Điều này giúp Java được ứng dụng rộng rãi trong doanh nghiệp, phát triển web, di động.
+
+Java có hệ sinh thái lớn với hàng nghìn thư viện, framework như Spring, Hibernate, giúp phát triển ứng dụng nhanh và bền vững.
+
+Ngoài ra, Java không ngừng phát triển với các phiên bản mới hỗ trợ tính năng hiện đại như lập trình phản ứng, đa luồng, và tối ưu hiệu năng.
+
+

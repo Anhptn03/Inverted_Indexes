@@ -1,0 +1,6 @@
+Python nổi bật với cú pháp đơn giản và hệ sinh thái thư viện phong phú, trở thành ngôn ngữ được ưa chuộng trong lĩnh vực khoa học dữ liệu và học máy. Các thư viện như NumPy, Pandas và TensorFlow cung cấp công cụ mạnh mẽ cho việc xử lý, phân tích và mô hình hóa dữ liệu.
+Python là ngôn ngữ phổ biến nhất trong lĩnh vực khoa học dữ liệu nhờ cú pháp đơn giản và thư viện phong phú như NumPy, Pandas, Matplotlib, và scikit-learn.
+
+Python hỗ trợ mạnh mẽ cho các tác vụ xử lý dữ liệu lớn, học máy và phân tích thống kê. Ngoài ra, các framework deep learning như TensorFlow, PyTorch cũng phát triển trên nền Python.
+
+Cộng đồng Python luôn đổi mới, phát triển các công cụ giúp lập trình viên dễ dàng thử nghiệm, xây dựng và triển khai các mô hình dữ liệu phức tạp.

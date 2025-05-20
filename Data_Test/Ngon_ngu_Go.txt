@@ -1,0 +1,7 @@
+Go, được phát triển bởi Google, kết hợp sự đơn giản với khả năng xử lý đồng thời, rất phù hợp cho các dịch vụ đám mây và kiến trúc microservices. Thời gian biên dịch nhanh và bộ thu gom rác tự động giúp đơn giản hóa việc xây dựng các hệ thống mở rộng.
+Go, hay Golang, được thiết kế bởi Google với ưu điểm đơn giản, hiệu quả và hỗ trợ lập trình đồng thời mạnh mẽ thông qua goroutines. Go phù hợp cho các ứng dụng mạng, microservices và cloud computing.
+
+Ngôn ngữ này có cú pháp dễ học, hệ thống quản lý bộ nhớ tự động, và trình biên dịch nhanh. Go giúp giảm thiểu lỗi runtime và tăng hiệu suất phát triển.
+
+Cộng đồng Go ngày càng phát triển với nhiều thư viện hỗ trợ, công cụ kiểm thử và tích hợp CI/CD giúp các dự án phần mềm dễ dàng vận hành quy mô lớn.
+

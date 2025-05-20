@@ -1,0 +1,6 @@
+Haskell giới thiệu một mô hình lập trình hàm thuần túy, nhấn mạnh tính bất biến và thành phần hàm toán học. Hệ thống kiểu mạnh mẽ và cơ chế đánh giá lười giúp tạo ra mã nguồn ngắn gọn và dễ dự đoán.
+Haskell là ngôn ngữ lập trình hàm thuần túy, nổi bật với tính bất biến dữ liệu và tính toán lazy (tính toán hoãn). Điều này giúp Haskell thể hiện các phép toán phức tạp một cách ngắn gọn và logic.
+
+Haskell hỗ trợ hệ thống kiểu mạnh, cho phép phát hiện lỗi tại thời điểm biên dịch và tăng độ an toàn phần mềm. Đây là ngôn ngữ được nhiều nhà nghiên cứu và nhà phát triển hệ thống lựa chọn cho các ứng dụng đòi hỏi độ chính xác cao.
+
+Ngoài ra, Haskell còn có cộng đồng phát triển mạnh mẽ với nhiều thư viện mở rộng phục vụ cho khoa học dữ liệu, phát triển web, và xử lý song song.
