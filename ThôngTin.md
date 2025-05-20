@@ -1,4 +1,3 @@
-Nhớ: PDF cho phần mô tả chạy ứng dụng lấy điểm giữa kỳ như đã hướng dẫn.
 
 1. Sinh viên thực hiện: Phan Trọng Ngọc Anh - N21DCCN099
 
